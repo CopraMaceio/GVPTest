@@ -30,13 +30,3 @@
     color: #000;
 
 }
-
-#iframeHid {
-    position: relative;
-}
-
-.julia-help {
-    position: absolute;
-    bottom: 0;
-    right: 45px;
-}
